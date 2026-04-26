@@ -1,0 +1,5 @@
+com\voidbot\whatsappbot\dto\MessageResponse.class
+com\voidbot\whatsappbot\service\MessageService.class
+com\voidbot\whatsappbot\WebhookController.class
+com\voidbot\whatsappbot\WhatsappBotSimulatorApplication.class
+com\voidbot\whatsappbot\dto\MessageRequest.class
